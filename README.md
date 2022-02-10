@@ -1,18 +1,18 @@
 # sfsArcadeMachineRaspi
 
-![GitHub Repo stars](https://img.shields.io/github/stars/CMDR-JohnAlex/sfsArcadeMachineRaspi?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/CMDR-JohnAlex/sfsArcadeMachineRaspi?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi?style=social)
 
-![GitHub top language](https://img.shields.io/github/languages/top/CMDR-JohnAlex/sfsArcadeMachineRaspi)
-![Lines of code](https://img.shields.io/tokei/lines/github/CMDR-JohnAlex/sfsArcadeMachineRaspi)
-![GitHub repo size](https://img.shields.io/github/repo-size/CMDR-JohnAlex/sfsArcadeMachineRaspi)
+![GitHub top language](https://img.shields.io/github/languages/top/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi)
+![Lines of code](https://img.shields.io/tokei/lines/github/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi)
+![GitHub repo size](https://img.shields.io/github/repo-size/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi)
 
-![GitHub issues](https://img.shields.io/github/issues/CMDR-JohnAlex/sfsArcadeMachineRaspi)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/CMDR-JohnAlex/sfsArcadeMachineRaspi)
-![GitHub](https://img.shields.io/github/license/CMDR-JohnAlex/sfsArcadeMachineRaspi)
+![GitHub issues](https://img.shields.io/github/issues/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi)
+![GitHub](https://img.shields.io/github/license/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/CMDR-JohnAlex/sfsArcadeMachineRaspi)
-![GitHub all releases](https://img.shields.io/github/downloads/CMDR-JohnAlex/sfsArcadeMachineRaspi/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi)
+![GitHub all releases](https://img.shields.io/github/downloads/SFS-Engineering-and-Design-Club/sfsArcadeMachineRaspi/total)
 
 ## About sfsArcadeMachineRaspi
 
