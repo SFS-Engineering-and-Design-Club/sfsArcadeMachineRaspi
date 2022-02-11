@@ -18,6 +18,7 @@ protected:
 public:
 	// Public Variables/Functions
 	// Public members of a class A are accessible for all and everyone.
+	void startupScreen();
 };
 
 #endif
