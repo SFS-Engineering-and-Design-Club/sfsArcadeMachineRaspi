@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+* src/fileOperations/fileOperations.cpp
+* src/fileOperations/fileOperations.hpp
+
+-------------------------------------------------------------------------------------------------------------
+
 ## [0.2.0]
 
 ### Added
